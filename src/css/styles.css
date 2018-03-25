@@ -38,6 +38,10 @@ label.required::after {
   transform: translateX(-5px);
 }
 
+code, pre, var, samp {
+  font-family: "Fira Code", "Fira Mono", "Consolas", "Source Code Pro", "Monaco", "Menlo", monospace;
+}
+
 pre {
   background-color: #343a40;
   color: #fff;
